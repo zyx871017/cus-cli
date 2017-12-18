@@ -1,0 +1,31 @@
+{
+  "name": "react-cus-cli",
+  "version": "1.0.0",
+  "description": "a project cli based on react",
+  "bin": "bin/scion.js",
+  "main": "bin/scion.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyx871017/react-cus-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "react-redux"
+  ],
+  "author": "zhaoyuxiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyx871017/react-cus-cli/issues"
+  },
+  "homepage": "https://github.com/zyx871017/react-cus-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.12.2"
+  }
+}
